@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuList"
+        android:title="History" />
+    <item android:id="@+id/menuPlayer"
+        android:title="Player" />
+    <item android:id="@+id/menuBrowser"
+        android:title="Browser" />
+    <item android:id="@+id/menuSettings"
+        android:title="Settings" />
+    <item android:id="@+id/menuGraphics"
+        android:title="Graphics" />
+</menu>
+
